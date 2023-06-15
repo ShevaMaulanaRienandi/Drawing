@@ -70,7 +70,7 @@
             this.rdoWhite.Size = new System.Drawing.Size(58, 17);
             this.rdoWhite.TabIndex = 7;
             this.rdoWhite.TabStop = true;
-            this.rdoWhite.Text = "White";
+            this.rdoWhite.Text = "White Color";
             this.rdoWhite.UseVisualStyleBackColor = true;
             this.rdoWhite.CheckedChanged += new System.EventHandler(this.rdoWhite_CheckedChanged);
             // 
